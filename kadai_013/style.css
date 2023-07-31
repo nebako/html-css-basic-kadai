@@ -58,6 +58,10 @@ PC用のスタイル
   #nav-pc>a:active {
     color: #0d0d0d;
   }
+
+  #menu-sp, #nav-sp {
+    display: none;
+  }
 }
 /* スマホ用スタイル */
 @media screen and (max-width: 767px) {
